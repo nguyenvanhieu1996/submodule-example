@@ -1,0 +1,3 @@
+[submodule "src/modules/templates"]
+	path = src/modules/templates
+	url = https://gitlab.example.git
